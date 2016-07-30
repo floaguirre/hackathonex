@@ -1,0 +1,35 @@
+HACER UN CARTEL CON TODOS LOS COMANDOS.
+gitignore, para ignorar archivos. 
+git diff  muestra las diferencias de los archivos trackeados y modificados. antes de enviar cualquier cambio.
+ticket/ numero de ticket???
+redmime***
+ishu? fitcshu??? ... ?? 
+git rm eliminar archivos. git -- alt
+git log ver evolucion en el repositorio
+git commit -- amend, vuelve a un punto atras.
+git reset HEAD <file> saca el archivo que hiciste con el add.
+git checkout <file> vuelve al estado inicial del ultimo commit
+git checkout . vuelve todo el directorio atras.
+git filter-branch borra todo el arbol de directorio de todos los commit anteriores.
+git revert, desase la cantidad de commit que quieras.
+remotes** origin, 
+git branch podemos obtener un listado de las ramas disponibles.
+git checkout -v <nombredelarama>
+git merge para unir las ramas.
+git rebase ***
+gitflow, por cada funcionalidad debo tener una rama.
+ramas: F1: dev: stage; hotfix, master.
+permisos en github***
+--force 
+git blame para ver quien modifico algun archivo.
+git grep
+git cherry-pick
+git stash oculta lo que estabas haciendo.
+Bibliografia:
+
+https://librosweb.es/libro/pro_git/
+
+
+
+
+
