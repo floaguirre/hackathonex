@@ -26,6 +26,7 @@ git grep
 git cherry-pick
 git stash oculta lo que estabas haciendo.
 Bibliografia:
+commit -am hace el add y el commit
 
 https://librosweb.es/libro/pro_git/
 
